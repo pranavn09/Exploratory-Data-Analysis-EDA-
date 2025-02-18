@@ -1,4 +1,4 @@
-📌 Exploratory Data Analysis (EDA) Projects
+📌 Exploratory Data Analysis (EDA) Projects : 
 This repository contains five EDA projects performed using Python in Jupyter Notebook, uncovering key insights from various datasets.
 
 1️⃣ Zomato Restaurants Analysis – Analyzing restaurant trends, ratings, and price distribution across different cities.
